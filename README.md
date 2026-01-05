@@ -71,9 +71,6 @@ Tras el entrenamiento de 2000 episodios, el agente fue sometido a una fase de ev
 
 ## 👥 Autores - Grupo 2
 
-* *Integrante 1:* [Tu Nombre]
-* *Integrante 2:* [Nombre Compañero]
-* *Integrante 3:* [Nombre Compañero]
 * *Institución:* Escuela Superior Politécnica de Chimborazo (ESPOCH)
 * *Carrera:* Software
 
